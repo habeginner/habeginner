@@ -9,8 +9,10 @@ num = 100
 항목1
 항목2
 항목3
--
+개발 스택 
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 -
 -
