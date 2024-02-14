@@ -10,7 +10,8 @@ num = 100
 항목2
 항목3
 -
--
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 -
 -
 - 👋 Hi, I’m @habeginner
